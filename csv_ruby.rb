@@ -73,13 +73,3 @@ while option!=1 || option!=2 do
   end
 
 end
-
-
-
-
-
-
-
-
-
-
